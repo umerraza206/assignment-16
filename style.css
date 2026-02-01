@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    background: url(./assests/img/hero-bg.png) no-repeat fixed center / cover ;
+    
+}
+button{
+    font-family: "Inter", sans-serif;
+
+}
+.card1{
+    background: url(./assests/img/card-bg.png) no-repeat center / cover;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+p{
+    font-family: "Inter", sans-serif;
+}
+h1{
+    font-family: "Sansita Swashed", system-ui;
+}
