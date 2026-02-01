@@ -24,3 +24,7 @@ p{
 h1{
     font-family: "Sansita Swashed", system-ui;
 }
+.about{
+    width: 30px;
+    height: 30px;
+}
