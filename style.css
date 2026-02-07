@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 main{
-    background: url(./assests/img/hero-bg.png) no-repeat fixed center / cover ;
+    background: url(./assests/img/hero-bg.png) fixed center / cover ;
     
 }
 button{
@@ -21,10 +21,45 @@ button{
 p{
     font-family: "Inter", sans-serif;
 }
+h2{
+    font-family: "Inter", sans-serif;
+    color: #E9BD8D;
+}
 h1{
     font-family: "Sansita Swashed", system-ui;
 }
-.about{
+.about1{
     width: 30px;
     height: 30px;
+}
+.discount{
+    background: url(./assests/img/discount.png) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 50vh;
+}
+.about{
+    background: url(./assests/img/about-bg.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    width: 100%;
+    height: 50vh;
+}
+
+.footer-bg{
+    background: url(./assests/img/footer-bg.png) no-repeat fixed center / cover;
+    width: 100%;
+}
+.icn{
+    width: 42px;
+    height: 42px;
+}
+.footer-img img{
+    width: 150px;
+    height: 100px;
+}
+.p{
+    color: #737373;
 }
